@@ -1,0 +1,4 @@
+API_URL = ""
+ACCESS_TOKEN = ""
+LAST_FM_API_KEY = ""
+LAST_FM_USERNAME = ""
